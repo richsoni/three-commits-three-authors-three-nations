@@ -160,6 +160,10 @@ q@^1.1.2:
   version "1.5.1"
   resolved "https://registry.yarnpkg.com/q/-/q-1.5.1.tgz#7e32f75b41381291d04611f1bf14109ac00651d7"
 
+"react-router@https://github.com/ReactTraining/react-router#987de78deb9687f15133188f2e8e51ffd653794d":
+  version "0.0.0"
+  resolved "https://github.com/ReactTraining/react-router#987de78deb9687f15133188f2e8e51ffd653794d"
+
 react@^0.13.0:
   version "0.13.3"
   resolved "https://registry.yarnpkg.com/react/-/react-0.13.3.tgz#a2dfa85335d7dc02b82b482f089582e64cc13356"
