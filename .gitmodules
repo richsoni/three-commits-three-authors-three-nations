@@ -1,9 +1,9 @@
 [submodule "lodash"]
-	path = lodash
+	path = initial-commits/lodash
 	url = https://github.com/lodash/lodash
 [submodule "react-router"]
-	path = react-router
+	path = initial-commits/react-router
 	url = https://github.com/ReactTraining/react-router
 [submodule "redux"]
-	path = redux
+	path = initial-commits/redux
 	url = https://github.com/reduxjs/redux
